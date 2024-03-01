@@ -1,8 +1,5 @@
 # Hell Space Shooter
 
-Draughts is a Python project that implements a draughts game with a graphical user interface and an artificial intelligence opponent.
-
-
 
 ## Installation
 To get started with this project, clone this repository using git:
